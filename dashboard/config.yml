@@ -48,7 +48,7 @@ sections:
   - title: "Observability"
     icon: "icons/magnifying-glass.svg"
     items:
-      - name: "Central Grafana"
+      - name: "Grafana k8s"
         logo: "icons/grafana_icon.svg"
         url: "https://grafana.k8s.springernature.io/?orgId=1"
         target: "_blank"
@@ -63,9 +63,9 @@ sections:
         url: "https://springernature.sentry.io"
         target: "_blank"
 
-      - name: "Link"
-        logo: "icons/link.svg"
-        url: "https://google.com"
+      - name: "Central Grafana"
+        logo: "icons/grafana_icon.svg"
+        url: "https://grafana.ee.springernature.io"
         target: "_blank"
 
   - title: "Really, help me name these"
@@ -76,9 +76,9 @@ sections:
         url: "https://ee-platform.apps.private.k8s.springernature.io/inventory"
         target: "_blank"
 
-      - name: "Link"
+      - name: "Status Page"
         logo: "icons/link.svg"
-        url: "https://google.com"
+        url: "https://status.ee.springernature.io/"
         target: "_blank"
 
       - name: "Link"
