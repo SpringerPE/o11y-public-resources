@@ -1,0 +1,146 @@
+sections:
+  - title: "Help me name these"
+    icon: "icons/home.svg"
+    items:
+      - name: "Springer Nature"
+        logo: "icons/logo-springernature.svg"
+        url: "https://www.springernature.com/gp"
+        target: "_blank"
+
+      - name: "Hive"
+        logo: "icons/hive2.png"
+        url: "https://hive.springernature.com/home/"
+        target: "_blank"
+
+      - name: "Jira"
+        logo: "icons/jira.svg"
+        url: "https://jira.springernature.com/"
+        target: "_blank"
+
+      - name: "Stratos"
+        logo: "icons/stratos.png"
+        url: "https://console.snpaas.eu/"
+        target: "_blank"
+
+  - title: "Documentation"
+    icon: "icons/document-text.svg"
+    items:
+      - name: "EE Platform Docs"
+        logo: "icons/ee-white.png"
+        url: "https://ee.public.springernature.app/"
+        target: "_blank"
+
+      - name: "Engineering Enablement"
+        logo: "icons/sn_logo_compact.png"
+        url: "https://ee-internal.public.springernature.app/"
+        target: "_blank"
+
+      - name: "Link"
+        logo: "icons/link.svg"
+        url: "https://google.com"
+        target: "_blank"
+
+      - name: "Link"
+        logo: "icons/link.svg"
+        url: "https://google.com"
+        target: "_blank"
+
+  - title: "Observability"
+    icon: "icons/magnifying-glass.svg"
+    items:
+      - name: "Central Grafana"
+        logo: "icons/grafana_icon.svg"
+        url: "https://grafana.k8s.springernature.io/?orgId=1"
+        target: "_blank"
+
+      - name: "Mission Control"
+        logo: "icons/grafana_icon.svg"
+        url: "https://mission-control.snpaas.eu/"
+        target: "_blank"
+
+      - name: "Sentry"
+        logo: "icons/sentry.svg"
+        url: "https://springernature.sentry.io"
+        target: "_blank"
+
+      - name: "Link"
+        logo: "icons/link.svg"
+        url: "https://google.com"
+        target: "_blank"
+
+  - title: "Really, help me name these"
+    icon: "icons/adjustments-horizontal.svg"
+    items:
+      - name: "EE Platform Inventory"
+        logo: "icons/ee-white.png"
+        url: "https://ee-platform.apps.private.k8s.springernature.io/inventory"
+        target: "_blank"
+
+      - name: "Link"
+        logo: "icons/link.svg"
+        url: "https://google.com"
+        target: "_blank"
+
+      - name: "Link"
+        logo: "icons/link.svg"
+        url: "https://google.com"
+        target: "_blank"
+
+      - name: "Link"
+        logo: "icons/link.svg"
+        url: "https://google.com"
+        target: "_blank"
+
+  - title: "GitHub"
+    icon: "icons/github.svg"
+    items:
+      - name: "o11y-*"
+        logo: "icons/sparkles.svg"
+        url: "https://github.com/orgs/springernature/repositories?q=o11y"
+        target: "_blank"
+
+      - name: "ee-*"
+        logo: "icons/cog-6-tooth.svg"
+        url: "https://github.com/orgs/springernature/repositories?q=ee"
+        target: "_blank"
+
+      - name: "SpringerPE"
+        logo: "icons/cog-6-tooth.svg"
+        url: "https://github.com/springerpe"
+        target: "_blank"
+
+      - name: "Link"
+        logo: "icons/link.svg"
+        url: "https://google.com"
+        target: "_blank"
+
+  - title: "External"
+    icon: "icons/external.svg"
+    items:
+      - name: "Cloud Console"
+        logo: "icons/google.svg"
+        url: "https://console.cloud.google.com"
+        target: "_blank"
+
+      - name: "Link"
+        logo: "icons/link.svg"
+        url: "https://google.com"
+        target: "_blank"
+
+      - name: "I DON'T use this btw."
+        logo: "icons/arch-linux.svg"
+        url: "https://archlinux.org/"
+        target: "_blank"
+
+      - name: "please add links"
+        logo: "icons/some.webp"
+        url: "https://google.com"
+        target: "_blank"
+
+  - title: "Learning"
+    icon: "icons/academic-cap.svg"
+    items:
+      - name: "LEAP"
+        logo: "icons/leap.png"
+        url: "https://macmillan.csod.com/ui/lms-learner-home"
+        target: "_blank"
