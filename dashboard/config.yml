@@ -5,7 +5,7 @@ sections:
       - name: "Springer Nature"
         logo: "icons/logo-springernature.svg"
         url: "https://www.springernature.com/gp"
-        target: "_blank"
+        target: "_self"
 
       - name: "Hive"
         logo: "icons/hive2.png"
