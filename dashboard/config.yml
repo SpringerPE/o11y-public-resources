@@ -134,7 +134,7 @@ sections:
 
       - name: "please add links"
         logo: "icons/some.webp"
-        url: "https://google.com"
+        url: "https://github.com/SpringerPE/o11y-public-resources/blob/main/dashboard/config.yml"
         target: "_blank"
 
   - title: "Learning"
